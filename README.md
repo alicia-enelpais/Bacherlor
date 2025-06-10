@@ -6,6 +6,9 @@ This repository contains materials related to my bachelor thesis, which explores
 
 Bézier curves and surfaces are fundamental tools in computer graphics, CAD systems, and various engineering fields. This thesis investigates how these mathematical constructs are defined, manipulated, and visualized, with a focus on their use in digital modeling and design.
 
+![image](https://github.com/user-attachments/assets/e016235f-142c-47d2-8291-aa910d09cbe0)
+
+
 ## Contents
 
 - **BezierTikz.tex**: LaTeX source file demonstrating the construction and visualization of Bézier curves using the TikZ package.
